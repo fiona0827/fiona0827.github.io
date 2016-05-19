@@ -13,8 +13,8 @@ High Performance Computing
 
 ### Project
 Bioinformation research
->Next Generation Sequcencing technology
->Genome Assembly
+> Next Generation Sequcencing technology   
+> Genome Assembly
 
 ### Bio
 Hometown: Chengde, Hebei
